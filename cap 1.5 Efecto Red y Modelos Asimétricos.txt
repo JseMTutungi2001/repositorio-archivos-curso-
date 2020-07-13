@@ -1,0 +1,72 @@
+efecto red y modelos asimetricos
+
+efecto es importante debido que es donde se estan basando todos los negocios
+que estan triunfando en esta era digital 
+
+El efecto red:
+se basa en un concepto dado por (Bob Metcalf) que dice que "el valor de un
+red es proporcional al numero de sus miembros al cuadrado"
+
+esto hace que mientras mayor numero de miembros valdra mucho mas.
+es importante debido que en todos los negocios de tipo red hay un punto 
+critico. el punto de masa critica, equivale al numero de usuarios y es 
+diferente segun funcion del negocio y la situacion competitiva, pero si 
+es capaz de pasar ese punto se genera el efecto red.
+
+¿que hace el efecto red?
+un ejemplo:
+si tu tienes un fax, y eres el unico que tiene un fax, tampoco funciona
+pero si de repete tus amigos tienen un fax puedes usarlo pero si todo el
+mundo tiene un fax el valor que se le agrega es muy elevado
+
+igualmente pasa con los servicios de mensajeria, juegos online, sistemas 
+operativos, programas de software.
+
+¿por que es importante?
+por que una empresa basada en el efecto red, tiene una ventaja competitiva
+clave, por que mientras mayor base de clientes tiene, aunque tengas un competidor
+con ventaja tecnologica y el producto es mejor que el tuyo, la capacidad
+ que tiene de llevarse a tus clientes es baja debido que no solo tendria 
+que cambiar tu, sino tu y tus compañeros, debido que se desincentiva porque
+es el mismo tipo de por ejemplo mensajeria que usan en conjunto por eso
+desincentiva.
+
+por eso alli esta la potencia del modelo red y la clave deestos negocios, es
+que el ganado se lleva todo por eso es dificil competir  con ellos.
+
+2 concepto es:
+Modelso asimetricos (two sided markets o plataformas
+
+-negocios que unen 2 plataformas de efecto red.
+
+efecto red directo ->(busqueda)
+
+esto es que por ejemplo tu entras y buscas algo, entonces mientras mas personas buscan
+eso mismo tu mismo mejoras el algoritmo que puede mejorar los resultados de busqueda.
+
+efecto red directo -> anunciantes
+por otro lado 
+un ejemplo que si se pone una plataforma de publicidad, mientras mas 
+anunciantes hay, mas proveedores hay y atrae mas competencia.
+
+si la empresa es capaz de unir ambos efectos se crea loque se conoce como 
+una plataforma 
+union de 2 redes >>> efecto red indirecto
+
+efecto red directo(busqueda)<-->efecto red indirecto<--> efecto red directo(anunciantes)
+
+esto es importante debido que se retroalimenta.
+cuanto mas gente entra a buscar servicios mas interes hay por anunciantes o
+por proveedores de servicios, mayor cantidad de proveedores se interesan
+de estar alli, y mientras mas contenido y mas proveedores de servicio
+mas personas les interesa la plataforma.
+lo cual genera el efecto red indirecto
+debido que una parte subsidia a la otra parte
+debido que los anunciastes y proveedores de servicios pagan para que tengas
+acceso a buscar a encontrar informacion o comprar y esto produce un valor
+economico grande.
+es importante entender, el objetivo de una empresa es convertirse en una 
+empresa de efecto red debido que su valor se multiplica por 4 
+a medida que el numero de miembros de red es mayor, tiene un potencial
+de crecimiento exponencial
+

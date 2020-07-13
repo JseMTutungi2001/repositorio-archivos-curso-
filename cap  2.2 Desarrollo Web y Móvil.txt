@@ -1,0 +1,168 @@
+desarrollo web y movil:
+
+[principales lenguajes de programacion web:]
+
+-Php
+-java-
+-javascript
+-ruby
+-ios(Swift)
+-Android(Java)
+-.Net(asp)
+-Python
+-Swift
+-CSS3
+-HTML5
+-Inteligencia Artificial
+
+realmente hay unos muy utilizados, en web todo lo relacionado con java, javascript
+y en movil todo lo relacionado con Ios y Android, de echo android, se programa
+con java. 
+
+CSS3 y HTML5 no son lenguajes de programacion sino, sistemas de marcado.
+
+[Principales gestores de contenido (CMS)]:
+
+SOn Herramientas para programas y gestionar los lenguajes de programación, los
+mas usados
+
+{En Webs coorporativas}
+
+-WordPress
+-DRupal.
+-Joomla
+
+{En comercios Electronicos}
+
+-PrestaShop
+-Magento
+
+
+[la importancia del movil y su velocidad de carga]
+--------------------------------------------------
+HOy en dia es crucial la importancia del movil y su velocidad de carga,
+
+{Crear Webs para movil y adaptarlas a escritorio:}
+
+entonces debemos pensar
+creo una web para moviles y luego la adapto para equipos de escritorio, debido
+que si tenemos un crecimiento de un 50 o 60%de usuarios que se conectan desde
+un movil contra un 30 o 40% de los que se conectan desde un equipo de escritorio
+entonces lo ideal pensemos primero en webs moviles.
+
+{Maquetacion}
+
+-foco en el negocio
+
+necesitamos hacer webs con foco en las ideas claves y directas, que cargen rapido
+si hacemos una pagina web, con mucha informacion, pesada, esa web no esta 
+pensada para ser una web movil
+
+-velocidad de carga-->> experiencia positivas
+
+el usuario es capaz de en 30 segundos ver varias webs por lo tanto no debemos
+robarle el tiempo y darle experiencias positivas, que no necesite una conexion
+desamasiado buena pero que funcione bien, que encuentre la informacion, y que
+incluso pueda tener una conversion, un contacto de let, un te llamamo ahora,
+o una de estas funcionalidades.
+
+[claves de una buena web:]
+
+	-Buenos procesos de programación
+	-llamadas al servidor y base de datos sean optimas.
+
+[Herramientas de comprobacion:]
+
+herramientas  que ayudarana comprobar como es el estado de las webs creadas 
+hoy en dia
+
+en un ranking de o a 100 puntos hay muy pocas que saquen notas mas de 80
+entre estas dos :
+
+	-Test My side Tool (pymes)
+ideal para medias y pequeñas empresas 
+
+	-test developers de google (desarrolladores)
+presta informacion tecnica que es interpretada por desarroladores webs.
+
+La analitica web es crucial al crear proyectos moviles:
+si no implrementamos una buena analitica web, es mas complicado medir si la 
+estrategia esta siendo buena y si los resultados se van consiguiendo, los 
+indicadores deben estar perfectamente etiquetados.
+
+[La analitica web y resultados]:
+
+	-{indicadores claves}
+
+es la monitorializacion de indicadores claves sobre el comportamiento de
+los usuarios en webs y otros dispositivos como moviles y tabletas.
+
+	-{Metricas}
+mediante la analitica web obtenemos distintas metricas
+las principales son:
+
+*usuarios unicos.
+*sesiones totales.
+*duracion de las sesiones.
+*paginas visitadas.
+*rebote.
+*datos demograficos.
+*dispositivos.
+*fuentes de trafico.
+
+
+-gran evolucion
+La analitica a evolucionado mucho y actualmente hay muchos expertos que 
+abordan la analitica web.
+
+-mayor numero de expèrtos
+
+-presente en la mayoria de las webs
+podriamos decir que casi todas las webs tienen hoy en dia configurada herramientas
+de seguimiento de analisis
+-pocas webs con herramientas correctas de  medicion:
+
+son pocas las que hacen esto y tienen mucho alcance, deonde se etiquetan envudos 
+de conversion, donde se puee very medir perfectamente donde, se produce la fuga del usuario
+y porque el usuario se siente defraudado por el contenido que se esta encontrando
+en esas web, aplicacion movil, etc.
+
+-evolucion hacia la fidelizacion del cliente: 
+-culmina en el business intelligence:
+donde se genera experiencioas muy positivas y fidelizar al cliente.
+
+sobre los temas de las webs podemos medir, varias cosas:
+
+-acciones de branding
+-respuestas directas
+-fidelizacion.
+
+
+	{objetivos del negocio}
+deben medir para metrizaciones avanzadas de:
+
+-google analytics
+-tag manager.  
+
+para creacion de reportings, de informes:
+
+{se recomienda la herramienta:}
+-data studio.
+
+ integracion en paneles de business intelligence
+-pentaho
+
+{otras herramientas}
+-clictale (pago)
+-omniture(pago)
+
+-open website analytics(open source y gratuita)
+-AW stats (gratis)
+
+
+
+
+
+
+
+

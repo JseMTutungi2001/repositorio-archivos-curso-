@@ -1,0 +1,107 @@
+Analitica, programacion y cloud:
+
+	*[Analitica:]
+
+
+se define "como la ciencia que examina datos en bruto con el proposito de sacar conclusiones
+sobre la informacion.
+
+sus dos obetivos principales son:
+
+	-permitir la toma de decisiones
+	-validar modelos existentes.
+
+[ejemplos:]
+
+	-Pocesamiento analitico en linea (OLAP)
+	-Analisis de datos de CRM en Call center.
+	-Analisis de transacciones de tarjetas de credito.
+	-Analisis de patrones de navegacion en sitios web.
+
+[Escala de valor de analisis]
+
+(1) nivel Analitica descriptiva:
+que nos cuenta que ha pasado en nuestro sistema.
+
+(2) nivel analitica diagnostica:
+que nos indica que esta pasando.
+
+(3) nivel analisis predictivo:
+nos indica que va a pasar 
+
+(4) nivel analitica prescriptivo:
+que nos dice que va a pasar pero tambien como debemos reaccionar en cuanto a eso.
+
+[las cosas estan cambiando]
+
+1) voy al establecimiento.
+2) decido que me gusta.
+3) lo compro online.
+
+
+	
+	*[Programacion]
+
+
+Debido a la transformacion digital que esta ocurriendo existe una gran demanda en esta area,
+de personas con estas capacidades.
+
+[Evolucion]
+
+	-Explosion de la economia de las APIs (Interfaz de programacion web)
+
+[Fases:]
+
+1960-1980: interconexion basica
+
+1980-1990: Protocolos y lenguajes de programacion
+
+1990-2000: Grandes plataformas publican APIs
+
+2000-Actualidad: BOOM de las APIs
+
+el da un ejemplo con imagen de una pagina web llamada (ProgrammableWeb) que tiene un 
+directorio donde catalogan todas las Apis que van detectando para integrar en los desarrollos
+de nuestros productos y servicios, tienen catalogado mas de 16000 APIs que podemos usar.
+
+[Metodologias de desarrollo agil]
+
+aparecen nuevas metodologias que intentas hacer mas eficientes y productivos a nuestros 
+equipos, con sprints mas cortos, con reuniones periodicas  para organizar y coordinar
+todo el avance que se va realizando dentro de un proyecto.
+
+
+	*[Cloud]:
+
+se define como un paradigma de computación basado en ofrecer servicios a través de un 
+navegador.
+ tenemos distinto modelos de negocios, distintos tipos de servicios clsificados dentro 
+del cloud.
+
+entre estas el 
+
+-SAAS (software como servicio)
+-PAAS (plataforma como servicio)
+-IAAS (intraestructura como servicio)
+
+	[Origenes]:
+
+El autor nicholas Carr establecio una metafora en la que compara la revolucion industrial
+en estados unidos cuando los empresarios querian desplegar y contruir una fabrica, para
+fabricar determinado producto, y debian anexar a la fabrica un grupo electrogeno un 
+genrrador para suminitrar la energia necesaria. Tras la revolucion industrial aparece los
+operadores electricos y se ofrece servicios electricos.
+
+el compara eso que paso con la revolucion industrial con que ahora esta pasando con la cantidad
+de procesamiento y almacenamiento, antes todos comprabamos discos duros, servers, y era
+un gasto e inversion importante pero ahora tenemos proveedores que nos ofrecen esta cantidad
+de procesamiento, este almacenamiento como un servicio y una modalidad de pago por uso.
+
+ [ventajas]
+-capacidades como servicio.
+-sin instalaciones
+-softwae siempre actualizados
+-modelo de pago por uso
+-movilidad
+
+ 

@@ -1,0 +1,52 @@
+conceptos de la base de la transformacion digital
+
+son 3:
+
+a) costes de transaccion
+
+b) efecto red y modelso asimetricos
+
+c) acceso vs propiedad
+
+1) LOS COSTES DE TRANSACCIÓN
+
+es una teoria economica ( su autor oliver E Williamson) con la cual gano
+el premio novel.
+
+aplicada a lo que son los vienes a personas, asume que las empresas deben
+tener que una persona aparte del coste que paga por el producto hay una
+cantidad de costes enerentea a esa venta. entre esos costes estan:
+
+-costes de busqueda.
+-costes de desplazamiento.
+-coste de decisión
+-coste de entrega.
+-compromiso que se asume.
+
+
+El E-COmmerce se esta beneficiando de los costes de transacción
+debido que es capaz de reducirlo casi a cero.
+
+-El coste de busqueda a disminuido mucho debido que antes puede que no
+tuvieras suficiente informacion o donde vivias no habrian tiendas, en estos
+momentos el acceso a la informacion de venta es clave para las ventas.
+
+-el coste de desplazamiento: ahora no te debes desplazar a un ligar fisico
+donde ver el producto para ver si comprarlo o no.
+
+-coste de decision: debid que ahora es muy facil tomar una desicion de un
+producto, debido que te puedes basar en la valroacion del prodcuto que han
+echo otras personas aparte de videos y mucha informacion que puedes encontrar
+nunca antes habiamos tenido tanta informacion de las cosas como ahora
+
+- coste de entrega: a disminuido debido que ya no debs desplazartea buscar
+el producto debido que te lo pueden mandar a casa o hasta lugares publicos
+o donde tu quierasla opcion de recogerlo en tanto tiempo y asi.
+
+-compromiso que se asume: debido que al momento de echar atras una compra
+ahora hay mas facilidad debido que antes era mas complicado
+
+estos conceptos de transaccion estan siendo clave en el desarrollo de 
+muchos negocios y desde luego en el E-Commerce que es uno de los grandes
+fuentes de crecimiento de la digitalizacion
+

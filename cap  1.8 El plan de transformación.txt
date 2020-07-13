@@ -1,0 +1,244 @@
+Plan de transformacion:
+
+como se defien un plan para tener claro que hay que hacer en un plan de 
+transformacion de una empresa
+
+8 puntos importantes:
+
+(1) definir la vision y estrategia:
+¿que queremos hacer?
+
+]esto depende de que parte de transformacion se encuentre ese sentor:
+
+*sectores muy transformados: 
+
+-medios de comunicacion
+-turismo
+
+*sectores en transformacion:
+-telecomunicacion.
+-banca
+-seguros
+
+*sectores poco transformados:
+-eletriidad/agua
+-quimicas
+-gas/petroleo
+
+depende del sector que este nuestre empresa nuestar empresa debe ir mas 
+rapido o mas lento.
+
+ES IMPORTANTE TENER CLARO 
+
+[Amenazas y oportunidades]:
+que amenazas hay, que otras empresas tengan la oportunidad
+de entrar en nuestro centor a atacarnos. La posibilidad de intentar hacer nuestro
+negocio de una manera diferente o poder hacer nuestro clientes.
+en la transformacion digital aparecen muchas oportunidades pero debemos saber 
+que oportunidades son validas para nuestro negocio.
+
+[Reinventar el modelo de negocio]:
+aqui hay que tener en cuenta el efecto red, los costes de transacción, la
+capacidad de crear modelos asimetricos, como nos impacto acceso vs propiedad.
+
+[siempre centrarse en oportunidades relevantes]:
+siempre tener en cuante que debemos meternos en oportunidades importantes, que 
+se vea que tendran resultado, y que tengan ingresos que justifiquen los esfuerzos
+
+(2) aprovechar el marketing digital para genenrar más trafico:
+comopodemos apodemos aprovechar todo el marketing digital para generar
+mas trafico y esto es clave, y necesitamos que mas gente venga a nosotros
+
+dentro del marketign digital tenemos 3 tipos de medios que podemos usar:
+
+(A)[medios Propios(OWNED)]:  so n los medios de los cuales una empresa, debe trabajar
+por ellos mas no pagar por estos, por ejemplo:
+
+-Paginas web y blogs
+-paginas en redes sociales.
+-SEO
+-Emailing
+-Canales en youtube
+-APP Movil
+
+(B)[Medios pagados (PAID)]:
+estos medios los dirigimos, y somos capaces de invertir en ellos, por
+ejemplo:
+
+-SEM
+-Anuncios Display
+-Anuncions en video
+-Email marketing
+-marketing de afiliados
+-pago a influencers.
+-retargetting.
+-promociones de contenidos.
+-anuncios en social media.
+
+de alguna manera debemos tener claro donde invertir para tener el retorno
+que necesitamos. 
+
+(C) [Medios ganados(EARNED]:
+Estos son las menciones que hacen de nosotros en otras paginas que nosotros
+no controlamos, no es nuestra propiedad, tampoco pagamos por ella, por lo
+cual, no tenemos control pero muchas veces tienen mucho valor.
+
+
+por ejemplo: 
+las opiniones que dan de nosotros, otras personas, otras empresas, o
+nuestros consumidores, por eso puede ser un medio muy importante y muy
+valorado.
+
+-Menciones
+-noticias compartidas
+-repost
+-revisiones
+-valoraciones
+-influencers
+-contenidos generados por usuarios.
+
+(3) Mejorar el funnel de conversion de trafico a venta.
+esto se trata de mejorar no solo el trafico sino tambien la venta
+por eso debemos mejorar el fannel de venta
+
+Interes|consideracion|venta
+hay personas que tienen interes consideran comprar el producto y al final
+lo compran y para esto hay herramientas que nos da la digitalizacion entre
+estas:
+
+-Personalizacion.
+-Reiting y reviews.
+-esos comentarios y recomendaciones de nuestro producto 
+-test A/B 
+el cual al entrar a una pagina a un porcentaje de clientes le ponen una
+pagina y  a otros una diferente, al final se decide a cual compran mas
+y despues se hace una coneversion y se ve cual es la triunfadora
+
+-test multivariante:
+donde se hacen convinaciones de elementos que tiene cada pagina, y en ves
+de probar dos opciones se prueban muchas opciones a la ves.
+
+(4) Mejora de la experiencia del cliente:
+un foco importante en esto es la satisfaccion del cliente, si te das cuenta
+que cuando tienes muchos canales de atencion y venta, es dificil por el tema
+de organizacion, o como satisfaces al cliente que este todo coordinado.
+
+-mejor experiencia al cliente.
+
+esto se puede usar con el diseño:
+-customer journey: como el cliente realiza su experiencia a partir de los
+puntos de contacto con nuestra empresa, hay metodologias que ayudan mucho
+
+-Desing Thinking: que ayuda a como definir todos esos procesos y como es
+la experiencia del cliente en cualquier instalacion que tiene con nosotros.
+
+hay que tomar en cuenta, que la satisfacion del se calcula a partir de dos
+aspectos:
+satisfaccion = percepcion - Expectativas
+por ejemplo si vengo a un negocio donde la expectativa es muy alta
+y la percepcion es mas baja, entonces la satisfaccion sera baja.
+
+pero si voy a un negocio donde no tengo expectativa que me atiendan bien
+o que la comida o etc sea bueno, y luego la percepcion es elevada,
+pues la satisfaccion sera muy elevada.
+
+al final es importante como definimos antes de la experiencia y como
+lo hacemos luego cuando es la entrega del servicio. esto debe estar 
+equilibrado.
+
+(5) fomentar la cultura del dato y su aprovechamiento:
+la digitalizacion tiene una potencial de generar datos, de medirdatos,de
+analizar.
+
+
+	[Impulsores de Big data]:
+para esto es improtante que hay 3 impulsores del big data:
+
+[A] La capacidad de disponibilidad de datos:
+esta capacidad es grande pero debemos tener una infraestructura que permita
+generar esos datos.
+
+[B] Capacidad de procesar y analizar datos:
+
+[C] la necesidad de entregar o extraer datos:
+
+	[Factores Criticos]:
+-Gobernanza: es como estan repartidos los datos y como se pueden usar
+en toda la organizacion.
+-Gestion:
+-Arquitectura:
+-Uso.
+-Seguridad:
+-Calidad:
+-Privacidad:
+
+{son temas importantes para el exito del bigdata}
+
+(6)  Renovar la infraestructura y cultura tecnologica:
+necesitamos aprovecharla tecnologia, la tecnologia no es buena por si misma
+sino de que tanto aprovechemos en nuestro negocio.
+
+principales tendencias tecnologicas a considerar:
+-inteligencia artificial
+-coche autonomo
+-big data y cloud
+-impresion 3e y produccion personalizada
+-internet de las cosas
+-robots y drones
+-plataformas y redes sociales.
+
+es muy importante no solo disponer y aprovechar la tecnologia, sino que
+cambiemos la cultura de como se aprovecha la tecnologia.
+
+por ejemplo:
+
+-metodologias Agile o DevOps
+-metologias de boots
+
+que permiten reducir el tiempo de entrega y lanzamiento de los nuevos productos
+y servicios.
+
+(7) desarrollar una organizacion y cultura para adoptar lo digital::
+para el cambio cultural  digital hace falta 4 cosas:
+
+[A]  Organizacion: si tenemos la organizacion adecuada diseñada para este
+ nuevo mundo.
+
+[B] Liderazgo: el estilo de liderazgo, es un tipo de liderazgo basado mas
+en como eres capaz de ir lanzando nuevos proyectos rapidamente,
+como tomar decisiones, aprender del fracaso, matar proyectos que no 
+resultan para no gastar recursos necesarios o de forma inecesaria.
+
+[C] Cultura: como fomentas una cultura de aprendizaje, de tolerancia de
+error, temas como recilencia, debe ser importnate ser capaz tener una
+cultura que se alinee con los cambios que quieres dar.
+
+[D] talento: dos cosas importantes, 
+
+{1}como apoyar el talento interno:
+como hay mucha gente de forma digital que lo esta haciendo bien y necesita
+ese apoyo.
+
+{2} incorporar talento externo:
+ no siempre tendras talento interno
+y deberas buscar talento externo en el mercado  que te pueda ayduar
+ a impulsar la solucion de necesidades que tiene la organizacion en el
+campo digital
+
+Por ultimo 
+
+(8) Definir plan de Implementacion:
+para definir un buen plan de implementacion hace falta 4 cosas:
+
+{1} apoyo decidido de la dirección: eso solo funciona si desde arriba
+los jefes lo apoyan, debe tener el mayor apoyo de arriba posible.
+
+{2} plan faseado: debe estar bien organizado por fases, en donde a medida
+que pases de bases esto evolucione.
+
+{3} objetivos claros: que todo este medido, objetivos en linea con lo que
+necesita el negocio,que haya una retroalimentacion en el negocio.
+
+{4} plan de comunicacion: la unica manera de cambiar el objetivo en comun
+de una empresa es comunicandolo, y comunicarlo a todos los niveles y 
+deben tener claro como es el plan y por donnde se debe ir para seguirlo.

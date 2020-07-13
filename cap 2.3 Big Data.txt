@@ -1,0 +1,111 @@
+big data:
+
+{La seo de ibm lo define como :}
+"es el proximo recurso natural del proximo siglo"
+
+-datos (materia prima)
+-transformacion en un producto de màs valor.
+-competencia analitica >>conocimiento. por ensima de estos datos.
+
+
+[Otra definicion:]
+
+definido por John Akred (fundador de silicon Valey)
+
+"se refiere a la combinacion de un enfoque oritando a guiar la toma de desiciones
+con descubrimientos analiticos que se extraen de los datos".
+
+no hay una definicion como tal. pero al final todos acuñen a algo en común:
+
+se refieren a:
+-muchos datos (mas de los gestionables mediante sistemas tradicionales)
+
+-segun un reporte de ibm El 90% de la informacion ha sido generada en los ultimos 2 años.
+
+-segun un reporte de cisco 4 billones de usuarios conectados a internet en el  2018
+-21 billones de dispositivos conectados en 2018
+
+-mas de 30 millones de sensores conectados en 2018 que generan informacion digital la cual
+podemos explotar y extraer.
+
+FUENTES: IBM Y CISCO VNI (VISUAL NETWORDKING INDEX)
+
+{aunque nos encontramos conciertos problemas}
+
+-naturalezas muy dievrsas de la informacion
+
+-informacion estructurada y desestructurada.
+-problemas de acceso y procesamiento debido al gran volumen de informacion
+
+[Principales fuentes:]
+
+	-web y medios sociales
+	-loT/M2M
+	-Datos Públicos
+	-Biometricos
+	-Saas/ aplicaciones en la nube
+	-datos transaccionales
+	-datos de red.
+	-documentos legales.
+	-generados por humanos
+
+
+[4 Problemas al los que BIg data hace frente]
+
+	-Volumen
+	-Velocidad
+	-Variedad de informacion
+	-Algunos añaden Valor pero no tiene sentido si no somos capaces de generar un valor
+a traves de la explotacion de la informacion
+
+(1) [Volumen:]
+
+debido que se almacenan en:
+*dispositivos fisicos.
+	-pueden romperse
+	-coste economico.
+
+la capacidad de almacenamiento  crece más despacio que el volumen de datos generados.
+
+
+(2) [Variedad]:
+
+Historicamente:
+	-datos estructurados.
+
+Alcualmente:
+	-Datos estructurados y no estructurados.(como videos imagenes, texto)
+
+crecimiento de datos desestructurados:
+
+	-2015: 75% |71  EB
+	-2016: 78% |106 EB
+	-2017: 80% |133 EB
+
+(3) [Velocidad]:
+
+	-de generacion
+	-de distribucion
+	-para analizar la informacion en un tiempo razonable.
+
+(4) [Valor]:
+
+	-Almacenaje no sirve de nada sin acceso ni entendimientos(aportar valor)
+	
+	
+[En resumen:]
+
+Nos encontramos con problemas y soluciones que pueden palear estos problemas:
+
+
+{Problemas}| {Soluciones} 
+	   | 
+-Volumen   | -procesamiento bach
+	   |
+-velocidad | -procesamiento de streaming
+	   |
+-variedad  | -Bases de datos NO SQL
+	   |
+	   |
+	   |
+
