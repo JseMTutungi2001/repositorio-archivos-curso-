@@ -1,0 +1,82 @@
+experto en SEO:
+optimizacion de motores de busqueda
+
+¿Como funcionan los buscadores?
+
+antes:
+
+*-eran un indice
+*-ordenados por tematicas
+
+ahora:
+
+-variables, pueda definirse que un contenido es mas importante que otro
+
+*-mas cercano al usurio.
+
+estas variables pueden ser: se tenga buen contenido, original, buen 
+diseño, que en todos los dispositivos se vea bien, que sea seguro,
+rapido. etc.
+
+el experto en seo es experto en estas variables y jugar con ellas,
+para a partir de alli, buscar estar mas arribaen la distintas busquedas.
+
+experto en seo debe dominar:
+
+-tecnologia
+
+-la arquitectura web
+
+-creacion de contenidos
+
+-analitica.
+
+[funciones]
+
+-analisis e investigaciondel cliente,sector y competencia.
+
+-tecnologica y arquitectura, propuestas de mejora en hosting y sitio web
+
+-analisis del perfil de cliente final, tematicas, contenidos y palabras
+clave.
+
+-creacion (opcional) y leracion entre contenidos
+
+-analitica y control de evolucion en posicionamiento por cada keyword
+
+[caracteristicas]
+
+-amante de internet y de la tecnologia.
+
+-especial capacidad analitica e interes por programacion web
+
+-interes por el analisis y mejora continua.
+
+-capacidad de gestion de multiples proyectos simultaneos.
+
+-amolia capacidad de trabajo en equipo con perfiles multidisciplinares
+
+[areas de especializacion]
+
+-tecnologia y contenidos.
+
+-agencia grande/pequeña, cliente final y freelance.
+
+-direccion y organizacion de proyectos, estrategia de seo, tecnico en seo.
+
+[formacion y preparacion]
+
+autoformarte, capacidad de cada dia leer mucho, como cada dia hay novedades
+saber y formarte constantemente, para poder liderar el mercado.
+
+para aprender:
+
+
+google activate
+google analytics
+google developers experts
+semrush
+MOZ
+
+ 
+

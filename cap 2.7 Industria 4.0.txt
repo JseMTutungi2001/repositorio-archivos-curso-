@@ -1,0 +1,133 @@
+Industria 4.0
+
+esta es un area donde pensamos que las competencias digitales van a ser 
+fuertemente demandadas, se trata de la insdustria de la conectividad, de la
+internet de las cosas, de la internet industrial y esta suponiendo una fuerte
+ transformacion para las empresas tradiciones.
+
+[¿que esta cambiando?]:
+
+-el software lo invade todo: el software lo esta invadiendo todo, la forma en
+como gestionamos la organizacion, como nos relacionamos con nuestros clientes
+ con medios digitales, independientemente del sector todas las empresas
+estan funcionando con una empresa de software.
+
+esto esta suponiendo una gran transformacion, por ejemplo se compara en su 
+momento:
+
+(1)Revolucion industrial: maquina a vapor.
+(2)revolucion industrial: energia electrica.
+(3)revolucion industrial: automatización.
+actual:
+(4) Revolucion industrial: industria 4.0
+
+
+
+*[¿para que?]:
+
+-mejorar la eficiencia interna/red de valor.
+-valor añadido por persona.
+-atractiva propuesta al mercado.
+-adecuar la oferta a la demanda instantanea.
+-minimizar la no calidad y errores dentro de la organizacion.
+-maximizar la seguridad y proteccion de las personas.
+
+[Tecnologias Digitales:]
+hay montones de tecnologias relacionadas con la industria 4.0
+se clasifican en 4 conjuntos las cuales indican el para que:
+
+*(1) Software: tenemos un conjunto un dominio que tiene que ver con las 
+tecnologias del software, como se usa, como se gestiona y como se proteje y 
+explota ese software.
+
+*(2) smart: como se procesa, temas de comunicacion, localizacion, sensorica,
+actuacion, temas de control.
+
+*(3) service: provicion de servicios, interccion entre lso sistemas y las
+personas, contenidos, interacion por voz, interaccion por gestos, etc.
+
+*(4) datos: procesamiento de datos, debido que se genean muchos datos.
+
+este mapa trata de dar a entender las diferentes tecnologias que consideramos
+para el mundo de la industria 4.0 lo interesante es como se convinan estas 
+tecnologias para determinar soluciones a problemas y necesidades. 
+
+*[Sistems producto-servicio]
+
+*-{smartización}
+	
+	-mayor sofisticación.
+	-procesar informacion.
+	-interactuacion con el entorno.
+	-toma de desiciones.
+	-mas autonomos.
+	-mas concientes.
+	-mas inteligenes.
+
+*-{Servitización}
+
+los productos:
+
+	-interactuan con otros productos del entorno del consumidor.
+	-proporcionan servicios.
+
+por ejemplo un telefono movil, aparte de hablar, se conecta con nuestro 
+vehiculo, se conect con nuestro equipo de musica, termostato, para 
+proporcionar servicios que para su comienzo del telefono no existian.
+
+La servitización es una forma de añadir servicios vinculados con el producto.
+
+es una herramienta importante para producir ventajas para el fabricante.
+*-[ventajas]
+
+*-convertir transaccion puntual en periodica.
+*-vincular mejor con el cliente.
+*-incrementar el aporte de intangibles haciendo una solucion mas sostenible.
+*-incrementar el valor de la propuesta (mayor rentabilidad).
+
+La servitizacion esta transformando.
+
+*-productos	 -- tendencia --> producto- servicio
+*-transacciones. -- Tendencia --> relaciones
+*-entregas.      -- tendencia --> resultados
+*-suministradores-- tendencia --> red de valor.
+
+*{vias de servitizacion}
+la instrumentacion de los productos el comunicarlos, el sensorisarlos, los
+medios tradicionales digitales, que son las nuevas plataformas digitales tipo
+UB pero aplicado al mundo industrial, estan posibilitando esta servitizacion,
+estan haciendo que cada ves sea mas factible generar servicios.
+
+*[integracion vertical, horizontal y mas]
+
+el proceso con que una empresa industrial se vuelve una empresa 4.0 repercute
+  en diferentes aspectos, cadenas de valor vertical, integracion horizontal, 
+integracion circular, esta ultima busca que la empresa se vinculo con todo
+el circulo de vida del producto, ese producto cuando lo entregas al cliente,
+genera servicios, genera relacion, y negocio con el cliente en todo el ciclo
+de vida. 
+
+*[claves de la industria digital]
+
+3 aspectos claves: 
+
+*(1) vinculacion mas estrecha con clientes: ddebido que la interaccion con los
+clientes va a ser continua estrecha, permanente con el cliente, incluso luego
+de haber entregado el producto. 
+
+*(2) nuevas funciones de aportacion de valor.
+
+esta se modifica cambia desde unas competencias tradicionales a estas nuevas
+competencias, que tienen que ver con el bigdata, la analitica, que tienen que ver 
+con la servitizacion. 
+
+*(3) la velocidad de innovacion: 
+trabajar estrechamente con el cliente requiere que los ritmos de innovacion
+se aceleren y eso para las industrrias tradicionales es muy dificil.
+requiere de transformacion dentro de la organizacion de personas y de cultura.
+
+
+
+
+
+

@@ -1,0 +1,151 @@
+Internet de las cosas:
+
+[transicion a internet de las cosas:]
+
+*70s-80s: en poco tiempo hemos visto una evolucion en el ambito de internet, lo que
+ estamos viendo de alta conectividad caracterizado por el desarrollo de servicios 
+tipo email que dieron paso a:
+
+*90s:Al desarrollo de la economia interconectada en la que a partir de los 90s surgio
+un boom relacionado con el comercio electronico y ese tipo de aplicaciones.
+
+*2000: En el año 2000 lo que fue la evolucion de internet vemos que se orienta a la 
+coperacion dodne herramientas como el acceso movil o de las redes sociales tanto como 
+facebook o twitter tienen un impacto gigantesco tanto en la parte economica como de las personas, en un
+entorno de internet.
+
+*Hoy (Actualidad): estamos observando una transicion hacia el internet de las cosas 
+donde hoy esperamos que en este año 2020, 50 billones de objetos inteligetes se 
+conectaran a internet.
+
+[Transformacion de internet]
+
+-red de redes: significa que 
+-actualmente mas de 3.750 millones de personas estan conectdas a internet.
+
+pero el siguiente paso es:
+
+-que las cosas, negocios y procesos estan conectados entre si formando la mayor red
+de redes que se haya visto en la historia.
+
+ [Evolucion]
+en estos ultimos años hemos visto:
+
+-la creacion de soluciones orientadas hacia la nube.
+
+pero existe un futuro mas alla:
+
+-soporte a la loT de computacion en la niebla.
+elementos intermedios que se colocan entre nuestros ordenadores tradicionales y las 
+operaciones en la nube, que permiten  que todos estos objetos que todas esta inteligencia
+que nos promete el internet de las cosas se pueda operar con el rendimiento que nos 
+demandan las personas y procesos de negocios que vamos a implementar.
+
+[¿En que se basa?]
+
+-sentir
+-actuar
+-comunicar
+-dispositivos
+-sennsores
+-actuadores
+-procesos 
+
+que estan alojadas en esa nube.
+
+se habla de que objetos cotidianos con los que estamos acostumbrados a interactuar
+dia a dia: 
+
+-envien informacion a la nube.
+
+-interactuando entre si y en su entorno.
+
+y nos proporciones 
+
+-Nuevos servicios y nuevas funcionalidades, nunca antes vistos.
+
+*[Dispositivos inteligentes]
+
+se habla de un conjunto de elementos:
+
+-sensores: son capaces de captar informacion del contexto, sobre el estado de esos 
+dispositivos inteligentes
+
+-actuadores: responden a señales e informacion que llega de la nube
+
+-controladores: acapara lo que es la capacidad de inteligencia y de procesamiento de
+la informacion obtenida de los sensores.
+
+a traves de estos tres elementos somos capaces de:
+
+-* sentir->sensores
+-* Actuar->Actuadores
+-* razonar->Controladores
+
+ sobre nuestro contexto y nuestro dispositivo. con estos 3 elementos con los que 
+somos capaces de contruir la inteligencia que caracteriza las soluciones basadas
+ en el internet de las cosas.
+
+*[¿como lo podemos construir?]
+se puede construir a traves de dispositivos fisicos.
+
+el muestra un ejemplo de una plaza arduino el cual permite implementar soluciones 
+basadas en la internet de las cosas.
+
+*-Procesador: permite implementar las capacidades de control.
+
+*-Entradas digitales,puertos digitales puertos serie/USB: que permiten implementar las 
+capacidades de implementacion.
+
+*-salidas(entrada alimentacion, potencia, boton reset): que nos permiten comunicarnos 
+con los distintos actuadores.
+
+[¿cual es uno de los principales retos en el entorno del internet de las cosas?]
+
+-¿como comunicar estos dispositivos con un entorno tipo nube?
+ para ello existen distintos estandares los cuales facilitan la comunicacion, en un 
+mundo IoT:
+
+comunicaciones  3G, 4G, componentes: Zigbee, bluetooth y NFC.
+
+[¿donde encontramos la internet de las cosas?]
+
+la encontramos basicamente la encontramos y tiene impacto en todo nuestro entorno.
+
+como:
+
+-dispositivos wearables.
+-aplicaciones IoT en el mundo industrial.
+-Hogar inteligente, electrodomenticos.
+-aplicaciones de transporte inteligente.
+-coche autonomo/conectado.
+
+*[Futuro]
+
+*-alianza entre operadores: que aseguren la posibilidad de comunicarse entre dispositivos
+IoT.
+
+*-mas analisis de datos (big data).traera un consumo y generacion masiva de datos, por
+lo tanto incoporara el analisis de grandes volumenes de informacion.
+
+*-mayor estandarización.
+
+-proveedores de modulos competiran con los operadores a la hora de desarrollar estas 
+soluciones.
+
+¿cuales son los problemas que debemos enfrentar antes de desplegar un internet de las 
+cosas que aborde globalmente estas soluciones?
+
+*[problemas]:
+
+-seguridad y privacidad.
+-estandarizacion
+-altos costes relacionados a la estandarizacion de integracion de este tipo de 
+sistemas.
+
+
+
+
+
+
+

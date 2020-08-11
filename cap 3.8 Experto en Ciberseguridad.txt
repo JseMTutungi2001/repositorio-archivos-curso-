@@ -1,0 +1,70 @@
+experto en ciberseguridad
+
+
+la ciberseguridad a parte de ser un campo ocupados y preocupados, es un 
+campo que debemos trabajar activamente po que hay muchos riesgos y 
+amenazas que pueden afectar a nuestras empresas, a nosotros de forma
+personal y profesionalmente.
+
+es un campo para el desarrollo profesional. existe una gran demanda de
+profesionales con esta profesion  y es una demanda no cubierta, no 
+existen hoy en dia suficientes, para cubrir tanto las empresas como
+el sector privado y publico que lo demandan.
+
+[perfiles]
+
+*perfil tecnico.
+
+-analisis amenazas
+-analisis forenses
+-reversing
+
+*seguridad
+
+-inplantacion y gestion de las medidas de seguridad
+
+*inteligencia
+
+-deteccion proactiva de incidentes.
+
+
+se necesita profesionals que conozcan la ciber seguridad y sean capaces de 
+
+cumplir estas funciones:
+
+[funciones]
+-implantar planes de gestion
+
+-diseñar arquitecturas
+
+-concienciacion 
+
+[perfiles demandados]
+
+-jedes de proyecto
+
+-mision estrategica
+
+-pedagogos/educadores
+
+-psicologos
+
+[en el ambito empresarial]
+
+-el personal tecnico 
+
+-personal de implantacion de sistemas
+-gestion de sistemas
+-analisi de seguridad 
+-consultoria
+
+[salida profesional]
+
+-gran demanda
+-requiere especializacion
+
+
+
+
+
+

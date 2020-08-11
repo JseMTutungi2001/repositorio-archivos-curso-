@@ -1,0 +1,76 @@
+Segun MIT Technology Review
+
+"Losgenios del Big data seran los profesionales más demandados en 2020"
+
+[dificion]
+
+*-es una persona que trabaja la ciencia de los datos.
+
+*-metodos cientificos
+*-procesos 
+*-sistemas
+
+mejor entendimientos de los datos, estructurados o no.
+
+*-estadistica,mineria de datos, aprendizaje automatico y analitica 
+predictiva
+
+
+[data scientist]
+
+
+"persona que es mejor en estadisticas que cualquier ingeniero de softrware
+y mejor en ingenieria de software que cualquier estadistico" josh wills
+
+
+"el puesto de trabajo mas sexy del siglo xxI" harvard business review
+
+
+"el unicornio de datos" BBVA
+
+
+[Areas de conocimiento]
+
+conjuega 3 grandes areas de conocimiento.
+
+*-programacion
+
+*-matematicas, estadisticas
+
+*-Negocio.
+
+ [kit de herramientas]
+
+ *lenguajes de analisis de datos
+
+	*-R,Python, scala.
+
+
+ *frameworks
+	*hadoop
+	*NOSQL
+
+ *-Herramientas de visualizacion
+ *-Herramientas de analisis semantico
+ *-EXCEL
+
+[ModerN DATA scientist]
+
+*Matematicas y estadisticas.
+*programacion y base de datos.
+*conocimiento de dominio y habilidades blandas
+
+[profesionales]
+provienen de carreras tecnicas pero no solo de carreras de informatica
+o computacion sino tambien de matematicos, estadisticos, quimicos que
+tienen conocimientos matematicas y de alguna manera aunque sea skills
+basicos de programacion 
+
+[como se distribuye el tiempo un experto en big data ]
+
+cerca del 80% del tiempo se dedica a la limpieza y organizacion de 
+informacion y la recoleccion de datos para incluir en los analisis
+
+solo el 20% a tecnicas exploratorias de la informacion, analisis predictivo
+
+

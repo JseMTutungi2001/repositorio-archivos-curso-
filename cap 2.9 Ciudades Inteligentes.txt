@@ -1,0 +1,108 @@
+Smartcities o ciudades inteligentes.
+
+Son un elemento transformador de progreso economico y desarrollo para las 
+ciudades y sus ciudadanos, entre las ciudades pioneras, estan las ciudades
+españolas en la implementacion de soluciones inteligentes, conectadas o smart 
+y es por esto que en muchas ciudades españolas, ya nos podemos encontrar 
+con herramientas y aplicaciones como:
+
+*-pagar el aparcamiento desde nuestro smartphone.
+*-plazas de aparcamiento cercanas. 
+*-consultar horarios de servicios de limpieza.
+*-cantidad  y calidad del agua que consumimos.
+*-estado del trafico, para saber cual es el camino mas rapido para llegar
+a un sitio. 
+*-comprobar niveles de contaminacion ambiental, o acustica.
+*-riesgo automatizado:informaciones meteorologicas.
+*-transporte publico: llegar a la parada del bus justo a tiempo.
+*-control dinamico del trafico: para permitir en caso de un accidente a las 
+ambulancias y sservicios de emegerencia el paso de formas mas rapida o manejar
+el trafico de forma mas fluida.
+*-reservas online para eventos.
+*-administracion electronica.
+*-bases de datos abiertas open data, para consultar el consumo de energia de 
+nuestra calle. o el porcentaje de delincuencia etc.
+
+*[definicion]
+
+*-la vision olistica de una ciudad que aplica las TIC para mejorar la calidad 
+de vida y accesibilidad de sus habitantes. 
+*-asegura un desarrollo sostenible economico,social y ambiental en mejora
+ permanente.
+
+
+*[las plataformas de ciudad, los dispositivos IoT y los datos]
+
+*-plataformas tecnologicas integradoras y globales.
+que sean capaces de 
+
+*-combinar e integrar los servicios y actividades. que se llevana a cabo en la 
+ciudad. 
+
+aprovechando el potencial que tienen.
+
+*-la gran cantidad de datos y canales fisicos y gitales con los que cuentan 
+los ciudadanos para informarse, comunicarse, consumir productos y servicios,
+interactuar y colaborar activamente con otros ciudadanos, con las administraciones
+y con las empresas prestadoras de servicios.
+
+*[Ecosistema]
+
+Las tecnologias Smart necesitan para su desarrollo un contexto donde:
+
+*-la tecnologia interviene conectando:
+		
+		*-personas. >>> generando
+
+		*-sensores. >>> incontables
+
+		*-servicios.>>>  Datos
+generando incontables cantidades de datos.
+
+*-encontrando patrones en esos servicios podemos personalizar servicios, 
+ajustdos a la demanda 
+ 
+
+*-A la ves que obtenemos y planificamos los indicadores clave de calidad de
+vida de los ciudadanos.
+
+*[Soluciones]
+
+las soluciones desarrolladas en las ciudades son inteligentes o smart, en la
+medida que tienen la capacidad de:
+
+*-reconfigurarse a partir de los indicadores de actividad que reciben los 
+sensores.
+
+aportando soluciones:
+
+*-complejas
+
+*-integradas
+
+*-personalizadas a cada usuario.
+
+hay una amplia cantidad de valores y servicios donde las ciudades y las empresas
+prestadoras de servicios estan desarrollando su ojo de ruta, podemos destacar
+
+*[aplicaciones y servicios]
+
+*-distribucion de la energia electrica.(amart grids)
+
+*-movilidad (smart mobility)
+
+*-agua (smart water)
+
+*-gestion inteligente de seguridad ciudadana. u otros servicios publicos.
+
+*- gestion de edificios publicos (smart buildings)
+
+*-servicios sociales como el cuidado de personas mayores, la prevencion de la
+violencia de genero, y la lucha contra la exclusion social. 
+
+
+
+
+
+
+

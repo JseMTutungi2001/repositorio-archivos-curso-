@@ -1,0 +1,164 @@
+Ciberseguridad:
+
+*[Historia:]
+
+A lo largo de la historia proteger las comunicaciones a sido muy importante
+desde la epoca romana ya se habia implementado los primeros algoritmos poor 
+asi decirlo, para poder proteger las informaciones y comunicaciones, donde la
+seguridad de la comunicacion se basa en que solo el originador de la comunicacion
+y su receptor puedan aceder a ella.
+
+*[Definicion:]
+
+Ahora es algo muy parecido solo que con los actuales avances tecnologicos.
+Ahora nos referimos a la ciberseguridad con el termino de:
+
+-Proteccion de la informacion confidencial enviada de un extremo a otro.
+luego no solo se extiende a cuando la enviamos sino tambien al:
+
+-Almacenamiento de la informacion, es decir, protegerla frente aquellas 
+personas u organismos que quieren sustraer la informacion y conocerla para
+realizar diferentes actuaciones sobre ella.
+ 
+hasta hace poco utilizabamos el termino de la proteccion de la informacion,
+pero desde unos 10 o 15 años para acá utilizamos lo que conocemos hoy en dia
+como ciberseguridad, porque ya no solo es importante proteger la informacion
+cuando la enviamos o cuando la almacenamos sino que constantemente podemos estar
+sufriendo distintos tipos de ataques no solo con el objetivo de sustraer 
+informacion pero tambien atacar a  los propios sistemas, esto es para que los 
+sistemas se caigan, para que no esten disponibles y no esten funcionales aquellos
+servicios que consideramos fundamentales. 
+
+*[Objeivos]:
+
+*-proteccion de la confidencialidad, que esta no sea accedida por personal 
+no autorizado.
+
+*-proteccion de la integridad: que la informacion no se modificada.
+
+*-proteccion de la autenticidad: que no haya actos de repudio es decir que 
+si alguien hizo algo no pueda decir que no lo ha echo o que alguien haga
+algo a nombre de otro.
+
+*-disponibilidad de los sistemas que la manejan: la integridad de los sistemas
+y todo de forma continua, monitorizando que puede estar pasando en los sistemas
+debido que muchas veces puede estar pasando algo y no somos conocedores de ello.
+
+Por lo tanto la ciberseguridad abarca actividades de caracter dinamico, continuo
+y que ademas imcorpora mecanismos de respuesta, lo cual nos hace preguntarnos
+si vamos a ser atacados o no sino cuando.
+
+por lo tanto:
+
+*[Medidas de seguridad]
+
+
+*{Caracter estatico}:
+
+*{caracter dinamico}:
+
+*{medidas de respuesta}: medidas de vigilancia,etc. 
+
+La ciberseguridad es un campo de actuacion muy amplio, que abarca numerosas 
+actividades.
+
+*[Importancia]
+
+es importante debido que dia de hoy nuestras emrpesas como los ciudadanos estan 
+sufriendo diferentes tipos de insidentes o ciberataques, que tienen como objetivo
+acceder a nuestra informacion personal y empresarial para hacer uso de ella,
+con objetivos de realizar estorciones, generar fraudes, ataques a la 
+disponibilidad de nuestros sistemas, al cifrado de nuestra informacion.
+
+como se ha visto en los ultimos años, se ha visto amenaazs y rescates por el
+cifrado de nuestra informacion, y muchos otros tipos de amenazas, es decir, 
+tipos de fraude, terrorismo, y robo de propiedad intelectual, que estan teniendo
+insidencia en este nuevo dominio que es el ciberespacio.
+
+hay ciertas caracteristicas que vuelven al ciberespacio muy diferente, 
+a los demas tipos de dominios como son la tierra, el espacio maritimo y 
+aereo.
+
+*[Caracteristicas]
+
+*-dominio global: es decir llega a  todos los rincones del planeta. 
+
+*- Bajo coste de acceso a este dominio.debido que desde un telefono o 
+tablet podemos tener acceso al ciberespacio.
+
+*-tiempo de respuesta rapido: en milisegundos lo que estamos haciendo tiene 
+efecto incluso a miles de kilometros de nuestra localizacion.
+
+*-Anonimato: debido que aveces es muy dificil detectar el origen de quien 
+hizo algo.
+
+*-espacio asimetrico: esto quiere decir que con pocos recursos con pocas cosas
+puedo realizar cosas que tengan un alto impacto.
+
+*- forma parte de nuestra vida: la tecnologia forma parte de nuestra vida, dia
+a dia tanto en nuestro ambito personal, familiar, empresarial, cada ves vamos
+a usar mas tecnologias y todas las tecnologias tienen bulnerabilidades y siempre
+las tendran.
+
+lo importante es conocerlas y en que se basan las tecnologias. y gestionar los
+riesgos asociados para cuando hayamos sufrido un ciberataque podamos detenerlo
+podamso gestionarlo y el impacto sea el menor posible.
+
+*[importancia de nuestar informacion]
+
+aveces nos preguntamos por que nuestra informacion es importante para un
+ciberatacante, pues si es importante debido que con nuestra informacion tanto
+personal como laboral se puede usar para realizar muchas acciones, delictivas
+pensemos que ocurriria si nos roban informacion sobre productos que van a sacar
+al mercado, y esta informacion la vende a la competencia o en el mercado negro
+o la darknet, con la cual con nuestra informacion personal pueden crear
+empresas fantasmas para vender productos falsos y luego nos van a llegar las
+denuncias.
+
+Debido que si esta informacion se cifra tendra un alto impacto en las empresas,
+cuando hablamos de pequeñas y medianas empresas, estamos viendo que se sufre
+constantemente ataques de lo que se llama ransomware.
+
+*[Ransomware]
+
+este ataque tiene como objetivo:
+
+*-cifrar los archivos
+*-pedir un rescate para desifrarlos.
+
+esto se ve mucho en empresas debido que cuando los atacan les estan cifrando
+el fichero de pedidos, de facturas, el fichero de clientes y luego la empresa
+se encuentra totalmente bloqueada y paralisada. ademas si no tienen mecanismos
+de seguridad previamente implantados, no hay un plan b a la hora de recuperar
+toda esa informacion.
+
+la opcion es acudir a un organizmo como incive para intentar recuperar tus 
+ficheros o pagarla cual incluso aunque se pague no te garantiza que puedas
+recuperar la informacion. por lo tanto se debe seguir unas pautas de seguridad.
+
+
+*[Pautas de seguridad]
+
+que siguen siendo estables hasta los ultimos años.
+y consisten en:
+
+*-Medidas de seguridad preventivas, como antivirus, sistemas de proteccion 
+de perimetros, fireware.
+
+*-sistemas actualizados: las actualizaciones lo que hacen es eliminar las
+vulnerabilidades que pueden tener los sistemas.
+
+*-tener sistemas de monitorizacion y control: que permitan detectar algunas
+otras cosas que no se puedan detectar por lo medios habituales. 
+
+ademas una regla muy basica:
+
+Tanto en el ambito personal coom empresarial, es desconfiar de todo aquello
+que es desconocido, por ejemplo desconfiar de correos electronicos de personas
+que no conocemos, o de organizaciones que no conocemos, porque muchas 
+veces son la puerta de entrada de malware o de virus que pueden afectarnos
+personal, profesional y laboralmente.
+
+
+
+

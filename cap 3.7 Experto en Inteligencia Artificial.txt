@@ -1,0 +1,78 @@
+Experto en inteligencia artificial
+
+definicion
+
+-debesaber utilizar y controlar las herramientas actuales de IA
+que le van permitir cualquier proceso.
+
+-conocer las tendencias en IA
+
+-formandose continuamente en IA
+
+[tipo de perfil]
+
+dentro de los sectores:
+
+*ingenieria informatica.
+
+*programacion /desarrollador
+
+*matematicas
+
+*ingenieria
+
+
+[competencias]
+
+-creatividad 
+-resolucion de problemas
+
+-agilidad en entornos complejos
+
+-capacidad de abstracion
+
+[funciones y responsabilidades
+
+*-diseño del modelo necesario
+
+*-identificacion de fuentes de datos, herramientas y utilidades
+
+*-busqueda, preparacion y tratamiento de datasets.saber encontrar los 
+data sets que necesita
+
+
+*-despliegue y desarrollo en plataformas cloud
+
+*-programacion y entrenamiento de algoritmos de ML (machine learning)
+
+[salidas profesionales]
+
+-departamento de I+D de grandes empresas tecnologicas
+
+-marketing digital
+
+-biotecnologia y biomedicina
+
+-empresas de desarrollo de sotware
+
+-consultoras tecnologicas
+
+-fintech
+
+-comercio tradicional y online
+
+-startups
+
+[formacion y preparacion]
+
+*formacion academica en IA
+
+no imprescindible pero conveniente a partir de un grado.
+
+-grado en ingenieria informatica
+-grado en matematicas
+-grado en una ingenieria 
+-posgrado en IA
+-master  en IA
+-cursos EdX de IA
+

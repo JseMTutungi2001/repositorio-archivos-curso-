@@ -1,0 +1,119 @@
+desarrollador web y mnovil
+
+definiciones
+desarrollador web:
+
+*-ejecucion de proyectos digitales en entorno escritorio.
+
+desarrollador movil:
+
+*-ejercicios de proyectos digitales en entono de movil y tablet 
+
+
+*[funciones]
+
+*-planificacion del trabajo
+
+*-medicion del alcance
+
+*-desarrollo de la programacion
+
+[caracteristicas]
+
+*-interpretacion de necesidades.
+
+*-diligecia en la gestion del tiempo.
+
+*-resolver problemas.
+
+*-programacion en las tecnologias objeto de proyecto.
+
+*-gestion de la documentacion generada.
+
+*-dar soporte y generar manuales.
+
+[formacion del sector]
+
+*-universitaria:
+
+	*-ingeniero informatico.
+
+	*-ingeniero en sistemas.
+
+
+*-formacion profesional:
+
+	*-desarrollo web
+	*-desarrollo de apps
+	*-desarrollo de apps multiplataformas.
+
+
+*-especializada (no reglada)
+
+	*-monograficos.
+	*-cursos de empresas del sector.
+	*-cursos privados.
+	
+*-red:
+
+	*-foros
+	*-youtube
+	*-tutoriales.
+
+[perfiles mas demandados]
+
+*-react
+
+*-framework javascript
+
+*-angular js 
+
+[perfiels de tecnologia (no propiamente web)]
+
+*-experto en big data
+
+*-sistemas (hosting)
+
+*-business intelligence
+
+*-experto en ciberseguridad
+
+[areas de especializacion]
+
+*-web frontend (visitante)
+
+*-web backend(administrador)
+
+*-sistemas
+
+*-servidores 
+
+*-aplicaciones
+
+
+[habilidades mejor valoradas]
+
+*-capacidad de gesion de proyectos.
+
+*-experiencia de usuario Ux y CRO (convertion rate optimization)
+
+*-analitica web
+
+*-habilidades sociales
+
+*-alto nivel de ingles.
+
+[tendencias de sector]
+
+
+*- progressive web app" webs que funcionan como apps:
+
+	*-wego, forbes, twitter, telegram y lancome.
+
+	+-web con mucha informacion de valor en abierto.
+
+	*-funcionalidades dirigidas a mejorar la vida del usuario.
+	*-tecnologia block chain(bit coin)
+
+
+

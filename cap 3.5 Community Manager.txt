@@ -1,0 +1,112 @@
+[difinicion]
+
+*-Gestionar los perfiles corporativos de una empresa en redes sociales
+
+
+*[formacion y preparacion]
+
+
+*-redaccion de contenidos 
+
+*-gestion de redes sociales
+
+*-creacion y diseño de contenidos
+
+*-content curation
+
+^-analitica 
+
+*-monitorizacion
+
+
+se basa en la redaccion de contenidos.
+
+la importancia recae
+
+	-en la transmision del mensaje que se desee difundir en redes
+sociales.
+
+	- para conseguir un objetivo determinados
+
+	-correcta redaccion de textos.
+
+	-lectura y revision
+
+{gestion de redes sociales}
+
+*-herramientas especificas
+
+ *-buffer: 
+	*- ayuda a mantener el contenido organizado-
+	*-control de comentarios.
+
+{creatividad}
+ *-herramientas de diseño
+ *-adaptar el formato a cada red social.
+
+{content curation}
+
+*-herramientas para buscar y seleccionar el mejor contenido
+
+{herramientas}
+
+google alert
+
+
+{analitica}
+
+*-averiguar si se ocnsiguen los objetivos de su plan social media.
+
+*-herramientas analiticas hay muchas y cada red social tiene la suya 
+propia.
+
+{monitorizacion}
+
+*-marca
+*-producto
+*-competencia
+*-usuario
+
+ayudaran a planificar con objetividad las acciones a seguir.
+
+{necesita tener conocimiento} en:
+
+*-redaccion 
+*-diseño y cratividad 
+*-content curation
+
+*-analitica 
+*-monitorizacion
+
+{funciones y responsabilidades}
+
+*-embajador de la marca en internet.
+
+*-responder a los comentarios que dejan los usuarios.
+
+*-defender a la compañia ante las quejas
+
+*-escuchar a la comunidad
+*-crear contenido de valor.
+
+*-medir sus acciones.
+
+*-constante actualizacion
+
+{como tiene que ser un community manager}
+
+*-debe ser una persona profesional y formada en el mundo de la red social
+
+*-creatividad, para crear contenido de valor y llamativo a los usuarios.
+
+*- conoce a la competencia
+
+*-conoce a publico objetivo
+
+*-estratega
+
+*-escucha y comunica
+
+*-proactivo
+
+*-constante reciclaje formativo

@@ -1,0 +1,141 @@
+Perfil profesional
+
+Project Manager en MKT digital
+
+	*[funciones]
+
+*-lleva a buen termino los proyectos digitales.
+
+*-es quien lleva la vision global en el proyecto.
+
+*-es responsable de la estrategia y planificacion.
+
+*-organiza y coordina el desarrollo del proyecto.
+
+*-supervisa al equipo
+
+*-gestiona el presupuesto.
+
+*-monitoriza y analiza los indicadores de rendimiento para corregir, potenciar
+y habilitar el proyecto.
+
+
+	*[Habilidades y competencias*
+
+*-Vertiente estrategica, esel cerebro del proyecto porque posee la vision
+en conjunto.
+
+*-vertiente de negocio, debe estar alineado con los objetivos de la empresa
+y generalmente esta ligado a conseguir un beneficio.
+
+*- amplios conocimientos digitales, glogables y tecnicos.
+
+*-liderazgo y gestion de equipo.
+
+
+*[plan de marketing digital]
+
+*(1)[analisis]:
+
+-[A]{analisis externo}:
+
+debemos investigar y extraer conclusiones de la:
+
+*-presencial online de los competidores.
+*-benchmarking: determinar las mejores practicas digitales y los casos de
+exito para recabar ideas sean o no del sector.
+
+*-analisis de clientes: sus habito digitales, caracteristicas, necesidades
+comunes.
+
+*-influencers del sector, intermediarios, colaboradores estragicos, 
+
+*-hacer co-marketing.
+
+*-tendencias: redes sociales mas actuales, habitos del sector, de los clientes
+previsiones sectoriales.
+
+-[B]{analisis interno}:
+
+-nuestra presencia digital: reflexionar sobre esto para a raiz de la investigacion
+para sintetizar y reflejar de forma fotografica, la situacion digital
+actual, sera util elaborar un.
+
+-DAFO digital: 
+	-recoge lasdebilidades y fortalezas internas.
+	- y la amenazas y oportunidades del sector donden os movemos.
+
+
+*(2)[objetivos]
+
+*-especificos y medibles. 
+
+*-objetivos generales:
+	-conseguir un numero determinado de leads o ventas.
+
+*-especificos: asociado  a las tacticas.
+
+*(3) [estrategias y tacticas]:
+
+(A)*Estrategias:
+
+existen dos estrategias para alcanzar los objetivos:
+
+*-segmentacion y targeting: donde escogeremos la audiencia a la que dirigirnos
+podemos apuntar hacia un nuevo secmento de potenciales clientes o dirigirnos
+al target de nuestros clientes actuales, para asegurar su fidelizacion.
+
+*-posicionamiento: 
+	-¿como ser persividos?
+	-¿en que somos diferentes?
+	-el posicionamiento es la base de nuestra estrategia de comunicacion
+	- y de los mensajes que vayamosa emitir.
+	-marketing mix especifico para el entorno digital.
+	-crear o modificar productos de venta online 
+	-servicio complementario
+	-politicas de precios y promociones.
+	-nuevos modelos de pago.
+
+en cuanto a la estrategia de comunicacion el contenido es rey por lo tanto
+debemos trazar 
+	-nuevas politicas de comunicacion especifica para cada canal donde
+estemos presentes a traves de un plan editorial.
+
+(B)*TActicas:
+conjunto de acciones en que se materializan las estrategias.
+
+para cumplir el objetivo de fidelizar.
+
+se recurrira a las tacticas como 
+	-eMail marketing
+	-CRM
+	-Redes sociales
+
+para convertir 
+
+	*-priorizar optimizacion de la web y de la experiencia de cliente.
+	*-SEO
+	*-SEM
+	*-publicidad display
+	*-redes sociales.
+
+
+
+*(4) [plan de accion]
+
+priorizar las tacticas en planes de accion, indicando:
+
+	*-que se llevara a cabo.
+	*-como se llevara a cabo.
+	*-quien lo llevara a cabo.
+	*-cuando se llevara a cabo.
+	*-con que costo se lleva a cabo.
+
+
+*(5) [monitorizacion y analitica]
+
+es necesario :
+
+*-identificar metricas
+*-identificar KPIs adecuados 
+*-analizarlos periodicamente

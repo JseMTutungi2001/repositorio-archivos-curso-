@@ -1,0 +1,126 @@
+Inteligencia Artifical:
+
+Es considerada la habilidad de resolver problemas llevada a cabo por una maquina
+o software.
+
+un ejemplo es una calculadora.
+
+suele ocurrir que la gente que una tecnologia esta superada o ya se a normalizado
+es que pasan a asignarle este concepto a la siguiente tecnologia que viene, y este
+tema que preocupa debido que se ve plasmado en pelicula, literatura y expertos
+hablan sobre ello y el paradigma que viene y muchos en los dispositivos tenemos
+soluciones o aplicaciones que usan inteligencia artifical.
+
+ [Tipos de inteligencia artifical]:
+
+hay 4 tipos segun Russell y Norvig
+
+(1)- Actuar como los humanos test de Turing
+
+(2)-Pensar como los humanos sistemas cognitivos
+
+(3)-pensar racionalmente leyes del pensamiento, los cuales tratan de seguir el 
+rasonamiento de la logica.
+
+(4)-Actuar racionalmente agentes inteligentes. este es el concepto que mas se 
+esta aceptando actualmente el cual es el estudio y diseño de agentes inteligentes
+considerando estos como sistemas que persiven su entorno y realizan acciones
+ que maximizan sus oportunidade de exito.
+
+ [Aplicaciones]:
+
+-Reconocimiento de voz y comprension del lenguaje natural. debido que muchos nos 
+gustaria conseguirnos sistemas que entiendan perfectamente lo que decimos y que
+cumplan nuestras necesidades y entiendan nuestra situacion.
+
+De esta manera tener asistentes virtuales:
+	-nos ayuden a gestionar Email.
+	-conseguir la ruta conecta a algun sitio.
+	-encargar una pizza.
+
+*{Traducción automatica}
+ esta es una de las aplicaciones la cual se le esta dando mucha importancia 
+a la traducción automatico debido que vivimos en un mundo globalizado en el que 
+debemos interactuar con gente de distintos paises, distintas lenguas maternas,
+enn la cual es realmente importante determinar los giros del lenguaje. 
+ 
+*{Robotica}
+debido al gran avance que se esta venido realizando en la robotica y los que 
+se tienen previstos, nso gustaria que esos robots tuvieran esa intuicion y ese
+saber estar que tenemos lo humanos, ya sea en la industria, entornos de trabajo,
+ en entornos de entretenimiento o incluso en la educacion.
+
+*{Reconocimiento de Imagen}
+
+Por que tanto para encontrar sentido en un texto manuscrito o diferenciar
+ los gestos de alumnos o las personas, saber descubrir vacterias, virus,  objetos
+fuera de lugar, o mediante los gestos de una persona si se encuentra bien. hay
+un monton de aplicaciones en nuestro dia a dia que se pueden resolver o mejorar con
+la inteligencia artificial.
+
+*{Realidad Auentada} 
+en nuestro dia a dia es util que el reconocimiento de imagen, nos ayude a prolongar
+la experiencia que vivimos a traves de la realidad aunmentada. y nos ayude para ir 
+encontrar sitios adeacuados cuando vamos por la calle y nos ayude a tener
+informacion adecuada depende a donde nos encontremos.
+
+ *Aplicaciones:
+esta teniendo un gran impacto todo lo relacionado con la conduccion autonoma.
+el reconocimiento de imagen necesario en un entorno de conduccion, es especialmente
+importante en efectos de seguridad y de eficiencia en tiempo y consumos, esto
+ esta haciendo que muchas empresas se estan enfocando en desarrollar la inteligencia
+artificial necesaria para crear vehiculos más seguros y mas eficientes.
+
+La inteligencia artificial actual tiene especial interes en el punto de vista 
+de machine learning.
+
+[Machine Learning:]
+
+Programas que resuelven problemas -> programas que aprenden a resolver problemas
+
+esto quiere decir que el machine learning frente a un desarrollador realiza un 
+programa o un algoritmo que resuelve problemas, el machine learning ofrece 
+algoritmos que aprenden a partir de datos y ejemplos dados, y son ellos mismos
+los que configuran un algoritmo apra resolver un problema.
+
+de esta forma en el machine learning nos encontramos hay 3 areas especiales de 
+desarrollo:
+
+(1) aprendizaje supervisado:
+en que un sistema es capaz de aprender a partir de  una serie de datos etiquetados
+con unos resultados, ya dados, es capaz de hacer predicciones o de emular ese
+comportamiento y darnos resultados.
+
+(2) aprendizaje no supervisado:
+en el cual el sistema es capaz de reconocer patrones, reconocer comportamientos,
+a partir de un datasend dado y de esta manera acada ves que hay una entrada
+nueva puede clasificarla dentro de ese algoritmo y darnos un resultado u 
+informacion sobre esa entrada.
+
+(3) aprendizaje por refuerzo:
+en el cual el sistema va a ir dando resultados y espera un positivo o un negativo
+pòr parte del entrenador y esto lepermite ir reforzando el algoritmo en unos 
+aspectos o en otros.
+
+ *[Redes Neuronales]
+aveces los sistemas en los que se aplica el machine learning son demasiado complejos
+tienen demasiadas variables y requieren del uso de redes neuronales.
+
+Las redes neuronales lo que hace ees crear una primera capa de variables sencillas
+y de entre la interaccion de las variables sencillas va creando distintas capaz
+en la que va dedusiendo nuevas variables que van interaccionando de una capa a 
+otra de forma que van reforzando que el algoritmo se comporte de una manera 
+determinada hasta llegar a unresultado de una forma mas eficiente que si tuvieramos
+que usar sistemas con todas las variables dentro del modelo matematico completo.
+
+
+
+
+
+
+
+
+
+
+
+
